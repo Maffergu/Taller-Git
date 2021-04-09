@@ -18,6 +18,7 @@ class MainActivity : AppCompatActivity() {
             Snackbar.make(view, "Replace with your own action 2", Snackbar.LENGTH_LONG)
                     .setAction("Action", null).show()
         }
+        //feature 2
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
